@@ -39,7 +39,7 @@ export const HomePage = () => {
               className={container}
               logo={<TemplateBackstageLogo classes={{ svg, path }} />}
             />
-            <Grid container item xs={12} justifyContent="center">
+            <Grid container item xs={11} justifyContent="center">
               <HomePageSearchBar
                 InputProps={{
                   classes: {
