@@ -22,6 +22,10 @@ Here are the core features that come with Backstage and links to examples in the
 
 > Note: the Kubernetes plugin does need to be installed but is considered a core feature
 
+## If things go wrong?
+
+Blame Tushar
+
 ## Additional Plugins
 
 The following plugins have been added to help better illustrate Backstage features and to highlight the ability to add plugins.
