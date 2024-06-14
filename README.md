@@ -24,7 +24,7 @@ Here are the core features that come with Backstage and links to examples in the
 
 ## If things go wrong?
 
-Blame Tushar
+Blame Tushar more
 
 ## Additional Plugins
 
